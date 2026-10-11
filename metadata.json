@@ -1,0 +1,8 @@
+{
+  "name": "Stethoscope AI",
+  "description": "Real-time acoustic heart and lung sound detection, phonocardiogram visualization, and AI auscultation diagnostics.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
